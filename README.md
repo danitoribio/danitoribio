@@ -48,7 +48,7 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 - [Link to Project Repository](#)
 
 ### Project 2: Bayesian analysis of a bike rental
-- [Link to Project Repository](#)
+- Link to Project Repository: (https://github.com/danitoribio/bike-rental-demand)
 
 ### Project 3: Prediction and classification of Indian engineers salaries 
 - [Link to Project Repository](#)
