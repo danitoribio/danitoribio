@@ -72,5 +72,5 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 
 - 📧 Email: dtoribiobruna@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/daniel-toribio-bruna
-- 
+
 Feel free to explore my repositories and don't hesitate to connect! 🚀
