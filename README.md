@@ -50,19 +50,16 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 ### Project 2: Bayesian analysis of a bike rental
 - Link to Project Repository: (https://github.com/danitoribio/bike-rental-demand)
 
-### Project 3: Prediction and classification of Indian engineers salaries 
-- [Link to Project Repository](#)
-
-### Project 4: Optimization of the production of a factory
+### Project 3: Optimization of the production of a factory
 - Link to Project Repository: (https://github.com/danitoribio/factory-production-optimization)
 
-### Project 5: Optimization of the routes of delivery vans with capacities and non-linear optimization of a strategy game
+### Project 4: Optimization of the routes of delivery vans with capacities and non-linear optimization of a strategy game
 - Link to Project Repository:(https://github.com/danitoribio/delivery-van-routes-and-nonlinear-optimization/tree/main)
 
-### Project 6: Rank page of the Wikipedia with Spark
+### Project 5: Page rank of the Wikipedia with Spark
 - Link to Project Repository: (https://github.com/danitoribio/Rank-page-Wikipedia)
 
-### Project 7: Route lookup binary search with hash
+### Project 6: Route lookup binary search with hash
 - [Link to Project Repository](#)
 
 ## Contact Me
