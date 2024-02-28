@@ -63,7 +63,7 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 - Link to Project Repository: (https://github.com/danitoribio/route-lookup-binary-search-with-hash/tree/main)
 
 ### Design of an image filter function, parallelizable and scalable
-- Link to Project Repository: ()
+- Link to Project Repository: (https://github.com/danitoribio/image-filter/tree/main)
 
 ## Contact Me
 
