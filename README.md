@@ -65,6 +65,15 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 ### Design of an image filter function, parallelizable and scalable
 - Link to Project Repository: (https://github.com/danitoribio/image-filter/tree/main)
 
+### Simple autoencoder for denoising images
+- Project in development
+
+### Running app with Android Studio
+- Project in development
+
+### FIR filter in VHDL
+- Project in development
+
 ## Contact Me
 
 - 📧 Email: dtoribiobruna@gmail.com
