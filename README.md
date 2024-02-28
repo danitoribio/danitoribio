@@ -44,23 +44,26 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 
 ## Projects
 
-### Project 1: Autonomous car
+### Autonomous kart
 - Link to Project Repository: ((https://github.com/danitoribio/stm32-autonomous-kart))
 
-### Project 2: Bayesian analysis of a bike rental
+### Bayesian analysis of a bike rental
 - Link to Project Repository: (https://github.com/danitoribio/bike-rental-demand)
 
-### Project 3: Optimization of the production of a factory
+### Optimization of the production of a factory
 - Link to Project Repository: (https://github.com/danitoribio/factory-production-optimization)
 
-### Project 4: Optimization of the routes of delivery vans with capacities and non-linear optimization of a strategy game
+### Optimization of the routes of delivery vans with capacities and non-linear optimization of a strategy game
 - Link to Project Repository:(https://github.com/danitoribio/delivery-van-routes-and-nonlinear-optimization/tree/main)
 
-### Project 5: Page rank of the Wikipedia with Spark
+### Page rank of the Wikipedia with Spark
 - Link to Project Repository: (https://github.com/danitoribio/Rank-page-Wikipedia)
 
-### Project 6: Route lookup binary search with hash
-- [Link to Project Repository](#)
+### Route lookup binary search with hash
+- Link to Project Repository: (https://github.com/danitoribio/route-lookup-binary-search-with-hash/tree/main)
+
+### Design of an image filter function, parallelizable and scalable
+- Link to Project Repository: ()
 
 ## Contact Me
 
