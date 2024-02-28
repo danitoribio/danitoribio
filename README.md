@@ -45,7 +45,7 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 ## Projects
 
 ### Project 1: Autonomous car
-- [Link to Project Repository](#)
+- Link to Project Repository: ((https://github.com/danitoribio/stm32-autonomous-kart))
 
 ### Project 2: Bayesian analysis of a bike rental
 - Link to Project Repository: (https://github.com/danitoribio/bike-rental-demand)
