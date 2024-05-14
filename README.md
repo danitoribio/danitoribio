@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Welcome to My GitHub Profile ![Saludo](https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif)
 
 ## About Me
 
