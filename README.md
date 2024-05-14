@@ -1,4 +1,8 @@
-# Welcome to My GitHub Profile ![Saludo]() <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="300" alt="Animación de ejemplo">
+<div align="center">
+  
+# Welcome to My GitHub Profile <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="5%" height = "5%" alt="Animación de ejemplo">
+
+</div>
 
 ## About Me
 
@@ -9,6 +13,9 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
 - 🎓 **Double Degree in Science and Data Engineering / Telecommunication Technologies**
   - Universidad Carlos III de Madrid
   - Expected Graduation: 01/2025
+
+- 🎓 **Double Degree in Science and Data Engineering / Telecommunication Technologies**
+  - Erasmus in Politechnika Lubelska
 
 ## Skills
 
@@ -23,6 +30,7 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
   - Networking
   - Wireless Communication
   - Signal Processing
+  - Cloud
 
 - **Programming Languages**
   - Python
@@ -41,6 +49,8 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
   - HTML
   - CSS
   - Spark
+  - SpaCy
+  - Gensim
 
 ## Projects
 
