@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile ![Saludo](https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif)
+# Welcome to My GitHub Profile ![Saludo]() <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="300" alt="Animación de ejemplo">
 
 ## About Me
 
