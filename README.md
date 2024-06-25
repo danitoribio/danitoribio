@@ -27,7 +27,6 @@ Hello there! I'm Daniel Toribio, a student pursuing a double degree in Data Scie
   - Optimization
 
 - **Telecommunication Technologies**
-  - Networking
   - Wireless Communication
   - Signal Processing
   - Cloud
